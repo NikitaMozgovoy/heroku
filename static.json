@@ -1,0 +1,9 @@
+{
+  "encoding":"UTF-8",
+  "headers":{
+    "/*":{
+      "X-Author":"Mozgovoy",
+      "Access-Conrol-Allow-Origin":"*"
+    }
+  } 
+}
