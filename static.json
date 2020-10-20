@@ -3,7 +3,7 @@
   "headers":{
     "/*":{
       "X-Author":"Мозговой Никита Александрович",
-      "Access-Conrol-Allow-Origin":"*"
+      "Access-Control-Allow-Origin":"*"
     }
   } 
 }
