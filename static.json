@@ -4,9 +4,9 @@
     "/*":{
       "X-Author":"diogenis",
       "Access-Control-Allow-Origin":"*"
-    }
-  }
+    },
   "routes":{
   "/sample/":"sample.html"
+}
 }
 }
