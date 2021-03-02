@@ -1,12 +1,17 @@
 {
   "encoding":"UTF-8",
-  "headers":{
-    "/*":{
-      "X-Author":"diogenis",
-      "Access-Control-Allow-Origin":"*"
+  "headers": {
+    "/*": {
+      "X-Author": "diogenis",
+      "Access-Control-Allow-Origin": "*"
     },
-  "routes":{
-  "/sample/":"sample.html"
-}
-}
+    "/login/": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8"      
+    },
+    "/sample/": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain"      
+    }
+  }
 }
