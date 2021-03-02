@@ -3,8 +3,7 @@
     "/login/": "/login.html",
     "/sample/": "/sample.html"
   },
-{
-  "encoding":"UTF-8",
+  
   "headers": {
     "/*": {
       "X-Author": "diogenis",
