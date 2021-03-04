@@ -6,7 +6,7 @@
   
   "headers": {
     "/*": {
-      "Charset": "UTF-8"
+      "Charset": "UTF-8",
       "Content-Type":"text/plain",
       "X-Author": "diogenis",
       "Access-Control-Allow-Origin": "*"
