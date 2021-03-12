@@ -1,12 +1,14 @@
 {
   "routes": {
     "/login/": "/login.html",
-    "/sample/": "/sample.html"
+    "/sample/": "/sample.html",
+    "/promise/":"promise.html",
+    "/fetch/":"fetch.html"
   },
   
   "headers": {
     "/*": {
-      "X-Author": "190660",
+      "X-Author": "diogenis",
       "Access-Control-Allow-Origin": "*"
     },
     "/login/": {
@@ -16,7 +18,15 @@
     "/sample/": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain"      
-    }
+    }, 
+    "/promise/"{
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8"
+    },
+    "/fetch/"{
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8"
+    },
   }
 }
 
