@@ -15,18 +15,10 @@
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8"      
     },
-    "/sample/": {
+    "/promise/": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain"      
-    }, 
-    "/promise/"{
-      "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/plain; charset=UTF-8"
-    },
-    "/fetch/"{
-      "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/plain; charset=UTF-8"
-    },
+    }
   }
 }
 
