@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start":"node index.js"
+  }
   "routes": {
     "/login/": "/login.html",
     "/sample/": "/sample.html",
